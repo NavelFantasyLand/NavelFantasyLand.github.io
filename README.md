@@ -149,7 +149,8 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+        <img src="https://t.bkit.co/w_63d4aac104bb9.gif" />
     </body>
 </html>
 
-<img src="https://t.bkit.co/w_63d4aac104bb9.gif" />
+
